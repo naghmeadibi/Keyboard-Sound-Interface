@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : -7.376
+TNS   : -260.165
+
+Type  : Slow Model Setup 'AUD_DACLRCK'
+Slack : -2.157
+TNS   : -177.340
+
+Type  : Slow Model Hold 'AUD_DACLRCK'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'AUD_DACLRCK'
+Slack : -1.423
+TNS   : -415.818
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.873
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : -3.168
+TNS   : -93.505
+
+Type  : Fast Model Setup 'AUD_DACLRCK'
+Slack : -0.368
+TNS   : -20.373
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -0.029
+TNS   : -0.099
+
+Type  : Fast Model Hold 'AUD_DACLRCK'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'AUD_DACLRCK'
+Slack : -1.423
+TNS   : -415.818
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.873
+TNS   : 0.000
+
+------------------------------------------------------------

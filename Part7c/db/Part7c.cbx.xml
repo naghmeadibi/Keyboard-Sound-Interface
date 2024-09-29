@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Part7c">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|Audio_Controller:Audio_Controller|Altera_UP_Audio_Out_Serializer:Audio_Out_Serializer|Altera_UP_SYNC_FIFO:Audio_Out_Left_Channel_FIFO|scfifo:Sync_FIFO" CBX_FILE_NAME="scfifo_5041.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMb3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lm71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMf3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pm71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|Audio_Controller:Audio_Controller|Altera_UP_Audio_In_Deserializer:Audio_In_Deserializer|Altera_UP_SYNC_FIFO:Audio_In_Left_Channel_FIFO|scfifo:Sync_FIFO" CBX_FILE_NAME="scfifo_5041.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|Audio_Controller:Audio_Controller|Altera_UP_Audio_Out_Serializer:Audio_Out_Serializer|Altera_UP_SYNC_FIFO:Audio_Out_Right_Channel_FIFO|scfifo:Sync_FIFO" CBX_FILE_NAME="scfifo_5041.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMa3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_km71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMe3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_om71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMg3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qm71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mm71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|Audio_Controller:Audio_Controller|Altera_UP_Audio_In_Deserializer:Audio_In_Deserializer|Altera_UP_SYNC_FIFO:Audio_In_Right_Channel_FIFO|scfifo:Sync_FIFO" CBX_FILE_NAME="scfifo_5041.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Part7c|synthesizer:s|generator:gen|lpm_rom0:ROMd3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_nm71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
